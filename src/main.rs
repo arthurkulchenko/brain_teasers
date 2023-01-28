@@ -1,5 +1,9 @@
+mod three_and_a_bit_1;
+mod non_standart_input_2;
+mod type_conversion_3;
+mod byte_sized_chunks_4;
+
 fn main() {
-  const THREE_AND_A_BIT : f32 = 3.4028236;
-  println!("{}", THREE_AND_A_BIT);
+  three_and_a_bit_1::call();
 }
 
