@@ -7,6 +7,7 @@ mod please_reboot_the_univers_6;
 mod there_and_back_again_7;
 mod walks_like_a_duck_quacks_like_a_duck_8;
 mod out_of_order_9;
+mod x_marks_the_spot_10;
 
 fn main() {
   please_reboot_the_univers_6::call();
