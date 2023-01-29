@@ -13,6 +13,8 @@ mod amnesia_12;
 mod reverse_the_polarity_of_the_neutron_flow_13;
 mod structure_sizing_14;
 mod to_infinity_15;
+mod double_or_nothing_16;
+mod how_long_is_a_vector_17;
 
 fn main() {
   please_reboot_the_univers_6::call();
