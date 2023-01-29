@@ -1,5 +1,5 @@
 pub fn call() {
-  if 'X' == 'X' {
+  if 'X' == 'Х' {
     println!("it matches!");
   } else {
     println!("It doesn't match.");
