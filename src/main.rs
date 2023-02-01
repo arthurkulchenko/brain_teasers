@@ -20,6 +20,8 @@ mod sleepless_in_tokio_19;
 mod hello_bonjour_20;
 mod trying_a_gordian_knot_21;
 mod waiting_for_godot_22;
+mod constant_loops_23;
+mod home_on_the_range_24;
 
 fn main() {
   please_reboot_the_univers_6::call();
