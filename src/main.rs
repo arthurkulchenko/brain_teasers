@@ -11,6 +11,15 @@ mod x_marks_the_spot_10;
 mod stacking_boxes_11;
 mod amnesia_12;
 mod reverse_the_polarity_of_the_neutron_flow_13;
+mod structure_sizing_14;
+mod to_infinity_15;
+mod double_or_nothing_16;
+mod how_long_is_a_vector_17;
+mod mutable_immutables_18;
+mod sleepless_in_tokio_19;
+mod hello_bonjour_20;
+mod trying_a_gordian_knot_21;
+mod waiting_for_godot_22;
 
 fn main() {
   please_reboot_the_univers_6::call();
